@@ -10,7 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=090lonely)](https://github.com/anuraghazra/github-readme-stats)
 
- [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,apple,cpp,git,latex,linux,md,py,vim,vscode)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,apple,cpp,git,latex,linux,md,py,vim,vscode,html,css,javascript)](https://skillicons.dev)
 
 <!---
 090lonely/090lonely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
